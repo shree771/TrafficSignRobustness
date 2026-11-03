@@ -1,0 +1,26 @@
+
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Large dataset
+data/
+
+# Model checkpoints
+checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
